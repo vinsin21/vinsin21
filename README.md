@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vin Sin</h1>
+<h1 align="center">Hi 👋, I'm Vineet Singh</h1>
 <h3 align="center">DevOps | AWS Cloud Enthusiast | Automating Infrastructure & Deployment</h3>
 
 ---
