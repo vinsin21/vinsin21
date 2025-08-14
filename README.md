@@ -5,14 +5,18 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA in AWS Cloud Computing  
+- 🎓 Post-Graduation in AWS Cloud Computing  
 - 🧑‍💻 AWS Certified (Cloud Practitioner & Developer Associate)  
-- 🌐 I specialize in automating infrastructure, CI/CD pipelines, and containerized deployments  
-- 🛠 Currently learning Kubernetes & mastering advanced AWS services  
-- 🎯 Building and deploying open source software on the cloud  
-- 📦 Passionate about Infrastructure as Code, Monitoring, and Cloud Security  
 
 ---
+
+## 🧠  Project 
+
+- **➡️ [AWS CICD MERN STACK](https://github.com/vinsin21/MERN-AWS-CICD-Pipeline)** 
+  
+
+---
+
 
 ## 🏅 Certifications
 
