@@ -22,7 +22,7 @@
 ## 🏅 Certifications
 
 - 🟧 **AWS Certified Cloud Practitioner**  
-- 🟨 **AWS Certified Developer – Associate**  
+<!--  🟨 **AWS Certified Developer – Associate**  -->
 
 ---
 
