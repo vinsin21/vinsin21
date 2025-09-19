@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-
+- [View My Resume](https://github.com/vinsin21/vinsin21/blob/main/Devops_Resume.pdf)
 - 🎓 Post-Graduation in AWS Cloud Computing  
 - 🧑‍💻 AWS Certified (Cloud Practitioner & Developer Associate)  
 
