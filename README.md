@@ -12,7 +12,8 @@
 
 ## 🧠  Project 
 
-- **➡️ [AWS CICD MERN STACK](https://github.com/vinsin21/MERN-AWS-CICD-Pipeline)** 
+- **➡️ [AWS CICD MERN STACK](https://github.com/vinsin21/MERN-AWS-CICD-Pipeline)**
+- **➡️ [Scalable Frontend App Deploymnet AWS + GithubActions ](https://github.com/vinsin21/cloud-quiz-craft)** 
   
 
 ---
