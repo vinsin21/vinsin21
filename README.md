@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - [Connect on LinkedIn](https://www.linkedin.com/in/vineet21/)
-- [View My Resume](https://github.com/vinsin21/vinsin21/blob/main/Devops_Resume.pdf)
+- [View My Resume](https://drive.google.com/file/d/1WZeid3cIZoMPaDUCMP4nUhtFjfGpOhf0/view?usp=drive_link)
 - 🎓 Post-Graduation in AWS Cloud Computing  
 - 🧑‍💻 AWS Certified (Cloud Practitioner & Developer Associate)  
 
@@ -13,6 +13,7 @@
 
 ## 🧠  Project 
 
+- **➡️ [AWS 3 Tier Architecture](https://github.com/vinsin21/AWS-3-Tire-App)**
 - **➡️ [AWS CICD MERN STACK](https://github.com/vinsin21/MERN-AWS-CICD-Pipeline)**
 - **➡️ [Scalable Frontend App Deploymnet AWS + GithubActions ](https://github.com/vinsin21/cloud-quiz-craft)** 
   
