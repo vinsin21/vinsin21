@@ -4,8 +4,9 @@
 ---
 
 ## 🚀 About Me
+- [portfolio site](https://winsin.netlify.app/)
 - [Connect on LinkedIn](https://www.linkedin.com/in/vineet21/)
-- [View My Resume](https://drive.google.com/file/d/1WZeid3cIZoMPaDUCMP4nUhtFjfGpOhf0/view?usp=drive_link)
+- [View My Resume](https://drive.google.com/file/d/14oAWmS6MKQccIQJjN25RrV4ldFJo2DNg/view?usp=sharing)
 - 🎓 Post-Graduation in AWS Cloud Computing  
 - 🧑‍💻 AWS Certified (Cloud Practitioner & Developer Associate)  
 
@@ -24,7 +25,7 @@
 ## 🏅 Certifications
 
 - 🟧 **AWS Certified Cloud Practitioner**  
-<!--  🟨 **AWS Certified Developer – Associate**  -->
+- 🟨 **AWS Certified Developer – Associate**  
 
 ---
 
