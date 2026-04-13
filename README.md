@@ -8,7 +8,8 @@
 - [Connect on LinkedIn](https://www.linkedin.com/in/vineet21/)
 - [View My Resume](https://drive.google.com/file/d/14oAWmS6MKQccIQJjN25RrV4ldFJo2DNg/view?usp=sharing)
 - 🎓 Post-Graduation in AWS Cloud Computing  
-- 🧑‍💻 AWS Certified (Cloud Practitioner & Developer Associate)  
+- 🧑‍💻 AWS Certified Developer Associate (943/1000) 
+- 🧑‍💻 AWS Cloud Practitioner (840/1000)  
 
 ---
 
